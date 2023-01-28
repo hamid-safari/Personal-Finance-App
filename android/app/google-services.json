@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904604001886",
+    "project_id": "finance-5bd83",
+    "storage_bucket": "finance-5bd83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904604001886:android:bc0ef47a668f790ca736cf",
+        "android_client_info": {
+          "package_name": "app.chat.personal_finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904604001886-eclu40detnr33g8fdbuv7gcqvubf22oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.chat.personal_finance",
+            "certificate_hash": "1f05635115e600f03c05ea8b6d2a98878113a4f4"
+          }
+        },
+        {
+          "client_id": "904604001886-0hqlvre386aoptrp3uednni9rrkbgars.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLYSjy7iqFMZc9mzq7vDuGdwkUgaWtOqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904604001886-0hqlvre386aoptrp3uednni9rrkbgars.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
