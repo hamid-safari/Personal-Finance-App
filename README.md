@@ -25,7 +25,7 @@ chart where the money has gone. </li>
 - <b>Firebase as Database</b>
 - <b>BloC architecture </b>
 
-
+<!--
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -33,7 +33,7 @@ Screenshots from the APP <br/>
 <br />
 
 </p>
-
+--!>
 <!--
  ```diff
 - text in red
